@@ -7,10 +7,12 @@ html, body {
 }
 
 body {
-  background: #1e1e1e;
+  background: #2d383a;
+    /* color = "Outerspace" (a little too light, probably,
+              but I like it for my spaceship's color(s) */
   font-family: 'Roboto', sans-serif;
-  font-size: 14px;
-  color: #6e6e6e;
+  font-size: 11px;
+  color: #f6114b;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
